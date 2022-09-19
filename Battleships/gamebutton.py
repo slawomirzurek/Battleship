@@ -1,0 +1,3 @@
+
+class GameButton(Button):
+    pass  
